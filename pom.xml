@@ -7,7 +7,6 @@
 	<packaging>war</packaging>
 	<build>
 		<finalName>Robocopia</finalName>
-		
 		<plugins>
 			<plugin>
 				<groupId>org.apache.tomcat.maven</groupId>
